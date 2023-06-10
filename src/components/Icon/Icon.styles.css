@@ -1,0 +1,9 @@
+.icon > span > svg {
+  color: blue;
+  width: 300px;
+  height: 200px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+}
